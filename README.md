@@ -8,7 +8,7 @@ This project is an effort to enhance Myntra's customers' overall experience by i
 
 The "Go Local" feature is an attempt to connect customers with their nearby local fashion vendors through Myntra's platform,
 thereby ensuring customers a seamless access to locally curated products (alongwith the globally available products) at their
-fingertips. This feature is an effort to help the local stores by adding more customers to them as well as marking Myntra's presence as omnipresent store.<br>
+fingertips. This feature is an effort to help the local stores by adding more customers to them as well as marking Myntra's presence as <b>omnipresent store</b>.<br>
 
 In order to cater to the needs of the customers, who love to try on their apparels before buying, a new "Myntra Walk In"
 feature has been proposed, which books a schedule for them to visit local shops and try on the products listed on the shop's page.<br>
