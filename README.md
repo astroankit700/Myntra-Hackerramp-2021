@@ -35,7 +35,7 @@ Through this feature users consumers will have a seamless shopping experience pr
 # Requirements:
 Install node.js - > 16.13.0  Link: https://nodejs.org/dist/v16.13.0/node-v16.13.0-x64.msi <br>
 In user environment variable add the path: C:\Program Files\nodejs<br>
-dependencies: "express": "^4.17.1", "hbs": "^4.1.2" <br>
+dependencies: express @4.17.1, hbs @4.1.2 <br>
 devDependencies: "nodemon": "^2.0.14"<br>
 
 # How to get the project set-up
