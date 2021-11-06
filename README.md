@@ -18,16 +18,6 @@ and return" time</b>.<br>
 
 
 
-# Advantages
-<ul>
-<li> Faster delivery, return and replacement.
-<li> walkin cum appointment 
-<li> regionally curated products along with globally available products.
-<li>to integrate regional consumers and local vendors access to locally available. 
-</ul>
-
-Through this feature users consumers will have a seamless shopping experience pre and post purchase.
-
 # Tech Stacks used:
 <ul>
 <li> HTML
