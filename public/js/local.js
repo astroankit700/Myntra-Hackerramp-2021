@@ -1,4 +1,4 @@
-
+// Initialzing the dummy shop details
 const shopsArr = [
     { name: "Pantaloons", description: "Jeans, T-shirts and pants", src: "/img/0.png" },
     { name: "Galaxy Dresses", description: "Everything u need to wear", src: "/img/1.png" },
@@ -10,15 +10,11 @@ const shopsArr = [
     { name: "Manyavar", description: "Shop Ethnic", src: "/img/7.png" },
 
   ];
-//   let strshopsarr = JSON.stringify(shopsArr);
-//         sessionStorage.setItem("shops", strshopsarr);
 
-
-//load_shops();
-var result = document.getElementById("location");
-const Http = new XMLHttpRequest();
-
-
+  var result = document.getElementById("location");
+  const Http = new XMLHttpRequest();
+  
+// fetching the user's address using bigdatacloud api
 function getApi(bdcApi) {
     Http.open("GET", bdcApi);
     Http.send();
@@ -41,6 +37,8 @@ function getApi(bdcApi) {
       
     };
   }
+
+// getting user's location
  function getLocation() {
   console.log("getLocation Called");
   var bdcApi = "https://api.bigdatacloud.net/data/reverse-geocode-client";
@@ -67,10 +65,8 @@ function getApi(bdcApi) {
   );
 }
 
-
-function load_shops() {
-    
-  
+// loading shops available near user's location using dummy data
+function load_shops() {  
     let strshopsarr = JSON.stringify(shopsArr);
     sessionStorage.setItem("shops", strshopsarr);
   
@@ -90,6 +86,7 @@ function load_shops() {
       let imgSrc = shopsArr[arr[i]].src;
       if (addressInPage) add_name = addressInPage;
   
+      // adding placards for each shop 
       body.innerHTML += `<div class="card" style="width: 18rem;">
       <img class="card-img-top" src=${imgSrc} alt="Card image cap">
       <div class="card-body">
@@ -100,6 +97,7 @@ function load_shops() {
     </div>`;
     }
   
+    // adding explore shop link to each placard
     let placards = document.querySelectorAll(".card-body");
     console.log(placards);
     Array.from(placards).forEach((ele) => {
@@ -110,6 +108,7 @@ function load_shops() {
     });
   }
   
+  // clearing out all shops before fetching user's address
   function remove_shops() {
     let body = document.getElementById("contain");
     body.innerHTML = ``;

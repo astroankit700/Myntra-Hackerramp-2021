@@ -1,3 +1,4 @@
+// setting up the walk-in in button
 const walk_in = document.querySelector('.btn-lg');
 walk_in.addEventListener("click", function() {
   walk_in.parentElement.innerHTML = `<a href="#" class="btn btn-success btn-lg">Appointment Booked <i class="far fa-calendar-check"></i></a> `;
@@ -8,8 +9,7 @@ walk_in.addEventListener("click", function() {
 });
 
 
-
-//const cart = document.querySelector('.cart');
+// setting up the add to cart button
 const button = document.querySelectorAll('.cartbtn');
 
 Array.from(button).forEach(ele => {
