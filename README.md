@@ -4,17 +4,19 @@
 <h3> Birla Institute of Technology, Mesra </h3>
 
 # About the Project
-This project aims to enhance Myntra by adding  called "Go Local". <br>
+This project is an effort to propose a couple of new features for Myntra called "Go Local" and "Myntra Walk In". <br>
 
-Through this feature, users at Myntra can also order clothes from there nearby cloth stores and can get the orders as soon as possible.<br>
+The "Go Local" feature is an attempt to connect customers with their nearby local fashion vendors through Myntra's platform,
+thereby ensuring customers a seamless access to locally curated products (alongwith the globally available products) at their
+fingertips and marking Myntra's presence as omnipresent store.<br>
 
-This project is an effort to help the local stores by adding more customers to them as well as marking Myntra's presence as omnipresent store, thus having a mutual benefit.<br>
+In order to cater to the needs of the customers, who love to try on their apparels before buying, a new "Myntra Walk In"
+feature has been proposed, which books a schedule for them to visit local shops and try on the products listed on the shop's page.<br>
 
-It also have a feature of Myntra Walk-in through which a customer can also visit the shop and check the products physically.<br>
+Integrating local shops with customers, not only amplifies the visibility of local products, but also reduces "delivery, replacement
+and return" time.<br>
 
-This feature will reduce the delivery time of clothes and also increase the employment oppurtunities in the market.<br>
 
-By adding this feature, Myntra will not only have the option to sell global products but also local products.<br>
 
 # Advantages
 <ul>
