@@ -4,11 +4,11 @@
 <h3> Birla Institute of Technology, Mesra </h3>
 
 # About the Project
-This project aims to enhance Myntra by adding a feature called "Go Local". <br>
+This project aims to enhance Myntra by adding  called "Go Local". <br>
 
 Through this feature, users at Myntra can also order clothes from there nearby cloth stores and can get the orders as soon as possible.<br>
 
-This project is an effort to help the local stores by adding more customers to them as well as marking Myntra's presences as omnipresent store, thus having a mutual benefit.<br>
+This project is an effort to help the local stores by adding more customers to them as well as marking Myntra's presence as omnipresent store, thus having a mutual benefit.<br>
 
 It also have a feature of Myntra Walk-in through which a customer can also visit the shop and check the products physically.<br>
 
@@ -33,15 +33,14 @@ Through this feature users consumers will have a seamless shopping experience pr
 <li> Javascript
 <li> Node.js
 <li> Express.js
-<li> Bootstrap
 <li> Handlebars
 </ul>
 
 # Requirements:
 Install node.js - > 16.13.0  Link: https://nodejs.org/dist/v16.13.0/node-v16.13.0-x64.msi <br>
-In user environment variable add the path: C:\Program Files\nodejs<br>
-dependencies: express @4.17.1, hbs @4.1.2 <br>
-devDependencies: nodemon @2.0.14<br>
+In user environment variable add the path: "C:\Program Files\nodejs"<br>
+dependencies: "express @4.17.1, hbs @4.1.2" <br>
+devDependencies: "nodemon @2.0.14"<br>
 
 # How to get the project set-up
 Steps to run:
