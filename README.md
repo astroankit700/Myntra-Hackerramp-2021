@@ -50,4 +50,3 @@ Shops nearby: This button feature fetches user's current location and filters al
 Pic od local/shop page
 walkin: Each shop has a walkin feature which books appointment with the shop.
 pic of local/shop/shopx page
-
