@@ -1,0 +1,66 @@
+<html lang="en">
+	<head>
+		<meta charset='UTF-8' />
+		<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+		<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+		<link rel='icon' href='/img/logo2.png' />
+		<title>Myntra Local</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+      <link rel="stylesheet" href="/css/style.css">
+
+	</head>
+	      <body>
+          {{>header}}
+            
+        <header>
+
+            
+            <div class="overlay"></div>
+			
+           
+            <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+              <source src="/video.mp4" type="video/mp4">
+            </video>
+          
+           
+            <div class="container h-100">
+              <div class="orientaion h-100 text-center align-items-center">
+                <div class="w-100 text-white">
+                  <h1 class="m1 display-3">Myntra in your Market </h1>
+                </div>
+                <a href="#contain"><button type="button" class="button" onclick="getLocation(); remove_shops(); load_shops();">Shops Nearby</button></a>
+                <p id="location" style="color: white;"></p>
+                
+              </div>
+            </div>
+            
+          </header>
+          
+          <!-- Page section example for content below the video header -->
+          <section class="my-5">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 mx-auto">
+                  
+                  
+                </div>
+              </div>
+            </div>
+          </section>
+        <div class="main" >
+        
+         <!--cards -->
+        
+        <div id="contain">
+        
+        
+        </div>
+       
+        
+        
+       
+        <script src="/js/local.js"></script>
+
+        </body>
+      
+</html>

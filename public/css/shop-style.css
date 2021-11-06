@@ -1,0 +1,47 @@
+#shop_pic
+{
+    width: 30vw;
+    height: 35vh;
+    padding: 1rem;
+    
+}
+.container
+{
+    all: unset;
+    display: flex;
+    flex-direction: column;
+}
+.shop-details
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #171A29;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.shop-info
+{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}
+.walkinbtn
+{
+    /* border: solid rebeccapurple; */
+    padding: 5rem;
+}
+.btn-primary
+{
+    background-color: rgb(202, 30, 131) !important;
+    border: none !important;
+    
+}
