@@ -6,7 +6,7 @@
 # About the Project
 This project aims to enhance Myntra by adding a feature called "Go Local". <br>
 Through this feature, users at Myntra can also order clothes from there nearby cloth stores and can get the orders as soon as possible.<br>
-This project is an effort to help the local stores by adding more customers to them as well as increasing Myntra's scalability, thus having a mutual benefit.
+This project is an effort to help the local stores by adding more customers to them as well as marking Myntra's presences as omnipresent store, thus having a mutual benefit.
 It also have a feature of Myntra Walk-in through which a customer can also visit the shop and check the products physically.<br>
 This feature will reduce the delivery time of clothes and also increase the employment oppurtunities in the market.<br>
 By adding this feature, Myntra will not only have the option to sell global products but also local products.
