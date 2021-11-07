@@ -4,7 +4,7 @@
 <h3> Birla Institute of Technology, Mesra </h3>
 
 # About the Project
-This project is an effort to <b>enhance customers' overall experience at Myntra</b> by introducing a couple of new features for Myntra called <b>"Go Local"</b> and <b>"Myntra Walk In"</b>.<br>
+This project is an effort to <b>enhance customers' overall shopping experience at Myntra</b> by introducing a couple of new features for Myntra called <b>"Go Local"</b> and <b>"Myntra Walk In"</b>.<br>
 
 The <b>"Go Local"</b> feature is an attempt to connect customers with their nearby local fashion vendors through Myntra's platform,
 thereby ensuring customers a seamless access to locally curated products (alongwith the globally available products) at their
