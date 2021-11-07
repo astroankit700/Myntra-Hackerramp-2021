@@ -42,14 +42,20 @@ Steps to run:
 
 # Features
 go local: Implemented the go local feature which navigates us to the page containing list of regional fashion shops. 
-![Screenshot (304)](https://user-images.githubusercontent.com/60423959/140630909-551f63b9-fd09-49de-a133-a0c1add4f353.png)
+![Screenshot (317)](https://user-images.githubusercontent.com/60423959/140631336-656af3bf-6901-4cff-ab22-096ce80bd691.png)
+
 
 Shops nearby: This button feature fetches user's current location and filters all available shops according to location.
-![Screenshot (305)](https://user-images.githubusercontent.com/60423959/140631035-a4e1933f-5629-43b0-b364-e6bad481cf3e.png)
+![Screenshot (319)](https://user-images.githubusercontent.com/60423959/140631376-62545af1-2b7b-43c6-a458-ab7c41ce464d.png)
+
 
  Each locally fetched shop has an
 "Explore shops" button which navigates to the product page of the shop.
-![Screenshot (306)](https://user-images.githubusercontent.com/60423959/140631075-648b5e49-6117-4115-bcc5-1fd741b1c57f.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/60423959/140631426-66026560-6883-422b-b452-b9bd9ae8d385.png)
 
-walkin: Each shop has a walkin feature which books appointment with the shop.
+walkin: Each shop has a walkin feature button.
+![Screenshot (324)](https://user-images.githubusercontent.com/60423959/140631450-a9a3ba3f-e726-46aa-b606-16f2b30dd56f.png)
+This feature helps the user to book an appointment with the regional vendor for a in person visit in their shop.
+![Screenshot (325)](https://user-images.githubusercontent.com/60423959/140631495-953b5047-6513-4210-8f58-97b10dd8308d.png)
+
 
