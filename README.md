@@ -46,7 +46,8 @@ go local: Implemented the go local feature which navigates us to the page contai
 
 
 Shops nearby: This button feature fetches user's current location and filters all available shops according to location.
-![Screenshot (319)](https://user-images.githubusercontent.com/60423959/140631376-62545af1-2b7b-43c6-a458-ab7c41ce464d.png)
+![Screenshot (327)](https://user-images.githubusercontent.com/60423959/140642306-bc47be6d-66b6-442f-8cf5-1bb211a59560.png)
+
 
 
  Each locally fetched shop has an
