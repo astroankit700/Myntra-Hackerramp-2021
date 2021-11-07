@@ -42,11 +42,14 @@ Steps to run:
 
 # Features
 go local: Implemented the go local feature which navigates us to the page containing list of regional fashion shops. 
-{{Pic of home page}}
+![Screenshot (304)](https://user-images.githubusercontent.com/60423959/140630909-551f63b9-fd09-49de-a133-a0c1add4f353.png)
+
 Shops nearby: This button feature fetches user's current location and filters all available shops according to location.
+![Screenshot (305)](https://user-images.githubusercontent.com/60423959/140631035-a4e1933f-5629-43b0-b364-e6bad481cf3e.png)
 
  Each locally fetched shop has an
 "Explore shops" button which navigates to the product page of the shop.
-Pic od local/shop page
+![Screenshot (306)](https://user-images.githubusercontent.com/60423959/140631075-648b5e49-6117-4115-bcc5-1fd741b1c57f.png)
+
 walkin: Each shop has a walkin feature which books appointment with the shop.
-pic of local/shop/shopx page
+
